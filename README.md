@@ -1,2 +1,4 @@
 # TicTacToe-Multiplayer-Java
 Self driven project, just to try to make a multiplayer game.
+
+TODO add pictures, how-to play, etc.
