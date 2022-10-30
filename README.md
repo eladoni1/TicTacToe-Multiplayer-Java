@@ -14,6 +14,6 @@ Set the desired IP Address of your opponent and his designated port, he should d
 The game will notify you it successfully connected!
 
 
-<img src="https://raw.githubusercontent.com/eladoni1/TicTacToe-Multiplayer-Java/main/tictactoePhotos/1.png" alt="Create Account" height="800" />
+<img src="https://raw.githubusercontent.com/eladoni1/TicTacToe-Multiplayer-Java/main/tictactoePhotos/1.png" alt="Create Account" height="350" />
 
 Have fun gaming~!
