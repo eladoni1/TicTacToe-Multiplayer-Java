@@ -231,8 +231,6 @@ public class TicTacToe implements Runnable {
     }
     // Addition
     private void tick() {
-        System.out.println("we won: " + Boolean.toString(won));
-        System.out.println("opponent won: " + Boolean.toString(enemyWon));
         if (errors >= 10) {
             unableToCommunicateToOpponent = true;
         }
