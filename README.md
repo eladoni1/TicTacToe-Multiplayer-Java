@@ -15,7 +15,3 @@ The game will notify you it successfully connected!
 
 
 <img src="https://raw.githubusercontent.com/eladoni1/TicTacToe-Multiplayer-Java/main/tictactoePhotos/1.png" alt="Create Account" height="800" />
-
-
-
-TODO add pictures, how-to play, etc.
